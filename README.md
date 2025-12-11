@@ -1,6 +1,6 @@
 # Detection of desert trees on satellite imagery
 
-[ WORK IN PROGRESS ] 
+![](https://img.shields.io/badge/Status-Work_in_progress-orange)
 
 This project showcases an end-to-end deep learning system to detect trees on satellite imagery.
 
