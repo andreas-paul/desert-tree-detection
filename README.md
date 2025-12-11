@@ -5,9 +5,10 @@
 This project showcases an end-to-end deep learning system to detect trees on satellite imagery.
 
 Features:
-- Two algorithms implemented:
+- Features to be implemented:
   - DeepForest: https://github.com/weecology/DeepForest
   - DETR: https://huggingface.co/docs/transformers/en/model_doc/detr
+  - Tessera embeddings: https://github.com/ucam-eo/tessera
 
 - No installation is needed, only Docker must be installed. All required data is either part of the package or will be downloaded when the application is running.
 - It is best run on a somewhat powerful machine such as a gaming laptop or workstation.
