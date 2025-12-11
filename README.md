@@ -14,7 +14,7 @@ This project showcases an end-to-end deep learning system to detect trees on sat
 - It is best run on a somewhat powerful machine such as a gaming laptop or workstation.
 
 ### Area
-<img width="1201" height="735" alt="uae-forest-01_overview" src="https://github.com/user-attachments/assets/0a16657c-30bb-400e-86cf-da531da3c9b9" />
+<img width="2236" height="1517" alt="overview-map" src="https://github.com/user-attachments/assets/9635d9ea-207e-4783-a222-e7e6914e19ec" />
 
 ### Training
 - Manual labels were placed in QGIS and export as geojson:
