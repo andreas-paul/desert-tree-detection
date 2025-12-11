@@ -14,7 +14,7 @@ This project showcases an end-to-end deep learning system to detect trees on sat
 - It is best run on a somewhat powerful machine such as a gaming laptop or workstation.
 
 ### Area
-An area in the western region of the Emirate of Abu Dhabi was chosen for this project. The forest is largely artificial and depends on continuous drip irrigation. Tree species are mainly drought resistant such as Ghaf, and _Acacia_.
+An area in the western region of the Emirate of Abu Dhabi was chosen for this project. The forest is largely artificial and depends on continuous drip irrigation. Tree species are mainly drought resistant such as Ghaf, and _Acacia_. Satellite imagery source: Google Earth.
 
 <img width="2120" height="1401" alt="overview-map" src="https://github.com/user-attachments/assets/5dd5b9ba-19ca-4906-b438-31f26692ab00" />
 
